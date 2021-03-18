@@ -1,0 +1,10 @@
+As taxilla is not allowing more than 10MB and my jar is 13.5 MB (winzip and 7z are not able to compress it below 10MB), I am uploading my jar to my site. You can download the same at:
+
+http://download.manishsingh.in/ir_assign_with_lemma.jar
+
+Once downloaded, please place it under .\executable (where this file is located)
+
+Alternatively, I have uploaded a split zip file using winzip under the folder: Ir_assignment_withJar-Splitzips. You can download it and merge them back using winzip ( right click on the main .zip file and click extract here .. or similar. It will do the extraction). You would need winzip for this. That zip has the jar file.
+
+
+

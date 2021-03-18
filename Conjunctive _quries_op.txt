@@ -1,0 +1,69 @@
+Enter a search query, to exit type '#exit'> Across
+
+The following documents contain the term 'across'-> Doc3.docx
+
+
+
+Enter a search query, to exit type '#exit'> not Across
+
+The following documents don't contain the term 'across'-> Doc1.docx Doc2.docx Doc4.docx Doc5.docx Doc6.docx
+
+
+
+Enter a search query, to exit type '#exit'> Across and frined
+
+The following docs match the query: 'Across and frined' -> No match found
+
+
+
+
+Enter a search query, to exit type '#exit'> Across and footer
+
+The following docs match the query: 'Across and footer' -> No match found
+
+
+
+
+Enter a search query, to exit type '#exit'> Across and not footer
+
+The following docs match the query: 'Across and not footer' -> Doc3.docx
+
+
+
+
+Enter a search query, to exit type '#exit'> Across or not footer
+
+The following docs match the query: 'Across or not footer' -> Doc3.docx Doc4.docx
+
+
+
+
+Enter a search query, to exit type '#exit'> not Across or not footer
+
+The following docs match the query: 'not Across or not footer' -> Doc1.docx Doc2.docx Doc3.docx Doc4.docx Doc5.docx Doc6.docx
+
+
+
+
+Enter a search query, to exit type '#exit'> not Across or footer
+
+The following docs match the query: 'not Across or footer' -> Doc1.docx Doc2.docx Doc4.docx Doc5.docx Doc6.docx
+
+
+
+
+Enter a search query, to exit type '#exit'> not Across and footer
+
+The following docs match the query: 'not Across and footer' -> Doc1.docx Doc2.docx Doc5.docx Doc6.docx
+
+
+
+
+Enter a search query, to exit type '#exit'> not Across and not footer
+
+The following docs match the query: 'not Across and not footer' -> Doc4.docx
+
+
+
+
+Enter a search query, to exit type '#exit'>

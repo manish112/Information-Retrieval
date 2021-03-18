@@ -1,0 +1,69 @@
+
+Enter a search query, to exit type '#exit'> and
+
+The following documents contain the term 'and'-> Doc1.docx Doc2.docx Doc3.docx Doc4.docx Doc5.docx Doc6.docx
+
+
+
+Enter a search query, to exit type '#exit'> not and
+
+No documents match the query: not and
+
+
+
+Enter a search query, to exit type '#exit'> or
+
+The following documents contain the term 'or'-> Doc1.docx Doc2.docx Doc3.docx Doc5.docx Doc6.docx
+
+
+
+Enter a search query, to exit type '#exit'> not or
+
+The following documents don't contain the term 'or'-> Doc4.docx
+
+
+
+Enter a search query, to exit type '#exit'> and and and
+
+The following docs match the query: 'and and and' -> Doc1.docx Doc2.docx Doc3.docx Doc4.docx Doc5.docx Doc6.docx
+
+
+
+
+Enter a search query, to exit type '#exit'> or and and
+
+The following docs match the query: 'or and and' -> Doc1.docx Doc2.docx Doc3.docx Doc5.docx Doc6.docx
+
+
+
+
+Enter a search query, to exit type '#exit'> not or and and
+
+The following docs match the query: 'not or and and' -> Doc4.docx
+
+
+
+
+Enter a search query, to exit type '#exit'> not and or not or
+
+The following docs match the query: 'not and or not or' -> Doc4.docx
+
+
+
+
+Enter a search query, to exit type '#exit'> and and not and
+
+The following docs match the query: 'and and not and' -> No match found
+
+
+
+
+Enter a search query, to exit type '#exit'> or and not or
+
+The following docs match the query: 'or and not or' -> No match found
+
+
+
+
+Enter a search query, to exit type '#exit'>
+
